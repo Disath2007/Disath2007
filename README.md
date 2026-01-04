@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00ffcc&center=true&vCenter=true&width=550&lines=Leveling+Up+as+a+Developer;Unlocking+Cyber+Security+Nodes;Maining+Java+and+React;Grinding+Code+by+Night;Building+Digital+Fortresses" alt="Typing SVG" />
 </div>
 
-<img align="right" alt="GIF" height="180px" src="https://octodex.github.com/images/nyantocat.gif" /><br><br><br><br><br><br><br>
+<img align="right" alt="GIF" height="180px" src="https://octodex.github.com/images/nyantocat.gif" />
 
 ## 🧠 Player Profile
 
