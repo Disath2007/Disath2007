@@ -6,7 +6,8 @@
   <h1>Hi there, I'm Disath <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" /></h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00ffcc&center=true&vCenter=true&width=550&lines=Leveling+Up+as+a+Developer;Unlocking+Cyber+Security+Nodes;Maining+Java+and+React;Grinding+Code+by+Night;Building+Digital+Fortresses" alt="Typing SVG" />
 </div>
-<img align="right" alt="GIF" height="180px" src="https://octodex.github.com/images/nyantocat.gif" />
+
+<img align="right" alt="GIF" height="180px" src="https://octodex.github.com/images/nyantocat.gif" /><br><br><br><br><br><br><br>
 
 ## 🧠 Player Profile
 
@@ -58,14 +59,13 @@
 ## 📊 Performance Statistics
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Disath2007&show_icons=true&theme=tokyonight&title_color=00ffcc&icon_color=00ffcc&text_color=ffffff&hide_border=true" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Disath2007&layout=compact&theme=tokyonight&title_color=00ffcc&text_color=ffffff&hide_border=true" />
+
   
-  <br/>
+ 
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Disath2007&theme=tokyonight&hide_border=true&stroke=00ffcc&ring=00ffcc&fire=00ffcc" />
 </div>
-
+ <br/>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Disath2007&theme=matrix&no-frame=true&margin-w=15" />
 </p>
