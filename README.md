@@ -1,77 +1,70 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=300&section=header&text=DISATH%20DAMSUTHA&fontSize=70&fontColor=00ffcc&animation=twinkling&fontAlignY=45&desc=ELITE%20DEVELOPER%20|%20CYBER%20SENTINEL%20|%20HARDCORE%20GAMER&descAlignY=62&descSize=20" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Disath%20Damsutha&fontSize=60&fontColor=00ffcc&animation=fadeIn&fontFamily=Cinzel&fontAlignY=30&desc=ELITE%20DEVELOPER%20|%20HARDCORE%20GAMER&descAlignY=50&descSize=20" />
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/RANK-PLATINUM_DEV-00ffcc?style=for-the-badge&logo=gameloft&logoColor=black" />
-  <img src="https://img.shields.io/badge/LEVEL-18-00ffcc?style=for-the-badge&logo=xp-pen&logoColor=black" />
-  <img src="https://komarev.com/ghpvc/?username=Disath2007&label=PLAYER_VISITS&color=00ffcc&style=for-the-badge" />
-</p>
+<div align="center">
+  <h1>Hi there, I'm Disath <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" /></h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00ffcc&center=true&vCenter=true&width=550&lines=Leveling+Up+as+a+Developer;Unlocking+Cyber+Security+Nodes;Maining+Java+and+React;Grinding+Code+by+Night;Building+Digital+Fortresses" alt="Typing SVG" />
+</div>
+<img align="right" alt="GIF" height="180px" src="https://octodex.github.com/images/nyantocat.gif" />
+
+## 🧠 Player Profile
+
+- 🔭 **Current Quest:** Building the **FoodCity Grocery Stock & Billing System**.
+- 🌱 **Skill Tree:** Currently unlocking nodes in **React** and **Cyber Security**.
+- 💬 **Ask me about:** Java, Python, and Web Architecture.
+- 📫 **Transmission:** [disathdamsutha6@gmail.com](mailto:disathdamsutha6@gmail.com)
+- 😄 **Pronouns:** He/Him
+
+<br/>
+
+<div align="center">
+  <a href="https://disath2007.github.io/my-website/">
+    <img src="https://img.shields.io/badge/Portfolio-00ffcc?style=for-the-badge&logo=safari&logoColor=black" />
+  </a>
+  <a href="http://disath2007.github.io/my-resume/">
+    <img src="https://img.shields.io/badge/Resume-2c5364?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  </a>
+  <a href="https://github.com/Disath2007">
+    <img src="https://img.shields.io/github/followers/Disath2007?label=Followers&style=for-the-badge&color=23272d" />
+  </a>
+</div>
 
 ---
 
-## ⚡ Player Dossier
+## 🛠️ Weaponry & Loadout
 
 <table align="center">
   <tr>
-    <td width="50%" style="border: none;">
-      <h3>🎯 Current Quest</h3>
-      <p>Building <b>FoodCity Stock & Billing System</b></p>
-      <h3>🛡️ Guild Recruitment</h3>
-      <p>Seeking <b>Cyber Security Mentors</b></p>
-    </td>
-    <td width="50%" style="border: none;">
-      <h3>🧬 Special Ability</h3>
-      <p>Full-Stack React Architecture</p>
-      <h3>🔋 Passive Buffs</h3>
-      <p>Critical Thinking +100 | Late Night Coding +50</p>
-    </td>
+    <td align="center" width="160"><h3>⚔️ Languages</h3></td>
+    <td><img src="https://skillicons.dev/icons?i=java,python,js,php,swift" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="160"><h3>🛡️ Frameworks</h3></td>
+    <td><img src="https://skillicons.dev/icons?i=react,django,nodejs,bootstrap,html,css" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="160"><h3>🛰️ Support</h3></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,linux,git,androidstudio,arduino" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="160"><h3>🎨 Skin Design</h3></td>
+    <td><img src="https://skillicons.dev/icons?i=figma,ps,ai" /></td>
   </tr>
 </table>
 
 ---
 
-
-
-## 🛠️ Weaponry & Loadout
-
-<p align="center">
-  <b style = "font-size: 32px" >⚔️ Primary Weapons (Languages)</b><br><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,js,php,swift" />
-  </a>
-</p>
-
-<p align="center">
-  <b>🛡️ Tactical Gear (Frameworks & Web)</b><br><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,django,bootstrap,html,css" />
-  </a>
-</p>
-
-<p align="center">
-  <b>🛰️ Support & Intel (Tools & OS)</b><br><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,linux,git,androidstudio,arduino" />
-  </a>
-</p>
-
-<p align="center">
-  <b>🎨 HUD & Skin Design (Creative)</b><br><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
-  </a>
-</p>
-
----
-
-
 ## 📊 Performance Statistics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Disath2007&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ffcc&icon_color=00ffcc&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Disath2007&layout=compact&theme=tokyonight&hide_border=true&title_color=00ffcc&text_color=ffffff" />
-</p>
+<div align="center">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Disath2007&show_icons=true&theme=tokyonight&title_color=00ffcc&icon_color=00ffcc&text_color=ffffff&hide_border=true" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Disath2007&layout=compact&theme=tokyonight&title_color=00ffcc&text_color=ffffff&hide_border=true" />
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Disath2007&theme=tokyonight&hide_border=true&stroke=00ffcc&ring=00ffcc&fire=00ffcc" />
+</div>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Disath2007&theme=matrix&no-frame=true&margin-w=15" />
@@ -85,16 +78,7 @@
   <img src="https://raw.githubusercontent.com/Disath2007/Disath2007/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
-
-## 📡 Transmission Channels
-
-<p align="center">
-  <a href="https://disath2007.github.io/my-website"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=safari&logoColor=00ffcc" /></a>
-  <a href="mailto:disathdamsutha6@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00ffcc" /></a>
-  <a href="https://instagram.com/disath_damsutha"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=00ffcc" /></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffcc&height=100&section=footer" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffcc&height=100&section=footer"/>
+  <p>🌌 <i>“Learning quietly. Building patiently. Dreaming endlessly.”</i> 🌌</p>
+</div>
