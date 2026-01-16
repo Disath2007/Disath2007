@@ -56,21 +56,6 @@
 
 ---
 
-## 📊 Performance Statistics
-
-<div align="center">
-
-  
- 
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Disath2007&theme=tokyonight&hide_border=true&stroke=00ffcc&ring=00ffcc&fire=00ffcc" />
-</div>
- <br/>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Disath2007&theme=matrix&no-frame=true&margin-w=15" />
-</p>
-
----
 
 ## 🐍 Activity Heatmap
 
