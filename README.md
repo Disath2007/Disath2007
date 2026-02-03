@@ -38,11 +38,11 @@
 <table align="center">
   <tr>
     <td align="center" width="160"><h3>⚔️ Languages</h3></td>
-    <td><img src="https://skillicons.dev/icons?i=java,python,js,php,swift" /></td>
+    <td><img src="https://skillicons.dev/icons?i=java,python,js,php,swift,html,css" /></td>
   </tr>
   <tr>
     <td align="center" width="160"><h3>🛡️ Frameworks</h3></td>
-    <td><img src="https://skillicons.dev/icons?i=react,django,nodejs,bootstrap,html,css" /></td>
+    <td><img src="https://skillicons.dev/icons?i=react,django,nodejs,bootstrap" /></td>
   </tr>
   <tr>
     <td align="center" width="160"><h3>🛰️ Support</h3></td>
